@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter.ttk import *
 
 # importing strftime function to
-# retrieve system's time
+# retrieve time provided by system
 from time import strftime
 
 # creating tkinter window
